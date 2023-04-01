@@ -1,0 +1,17 @@
+h1 { color: #a2829d; font-family: 'Helvetica Neue', sans-serif; font-size: 200px; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: center; text-shadow:
+    -1px -1px 0 #fff,
+     1px -1px 0 #fff,
+    -1px  1px 0 #fff,
+     1px  1px 0 #fff;}
+#hbspic { background-image: url(../recipes2/img/hbs.png);}
+h2 { color: #111; font-family: 'Open Sans', sans-serif; font-size: 50px; font-weight: 300; line-height: 32px; margin: 0 0 72px; text-align: center; }
+p { color: #685206; font-family: 'Helvetica Neue', sans-serif; font-size: 14px; line-height: 24px; margin: 0 0 24px; text-align: center; }
+.ing { color: #111; font-family: 'Open Sans', sans-serif; font-size: 20px; font-weight: 100; line-height: 17px; margin: 0 0 36px; text-align: center;}
+h3 { color: #7c795d; font-family: 'Source Sans Pro', sans-serif; font-size: 25px; font-weight: 400; line-height: 32px; margin: 0 0 24px; text-align: center; }
+.st { color: #685206; font-family: 'Helvetica Neue', sans-serif; font-size: 14px; line-height: 24px; margin: 0 0 24px; text-align: center; }
+ul {list-style-position: inside;}
+.list {  list-style: none;
+    margin: 0;
+    padding: 0;}
+#gbppic {background-image: url(../recipes2/img/gbp.png);}    
+#idek {font-size: 143px; background-image: url(../recipes2/img/cbsaehbs.png); color: #8ea98b;}
